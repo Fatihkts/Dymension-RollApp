@@ -15,6 +15,7 @@
 
 > Sunucu olarak Hetzner
 
+```sh
 # Dökümasyon önerisi:
 4 CPU - 16 RAM - 500 SSD
 ```
