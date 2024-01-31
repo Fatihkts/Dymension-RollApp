@@ -11,6 +11,11 @@
 
 > Community Kanalları: [Resmi dYmension kanalı](https://t.me/dYmensionTurkish) 
 
+
+
+> Öncelikle bana göre [roller](https://github.com/Fatihkts/Dymension-RollApp/blob/main/README.md) kurarak başlayın.
+
+
 <h1 align="center"> Donanım ve Gereksinimler </h1>
 
 > Sunucu olarak Hetzner
